@@ -12,5 +12,7 @@ public class HelloWorld {
         System.out.println("测试 revert");
 
         System.out.println("测试本地修改了 能否拉取");
+
+        System.out.println("测试本地修改了 能否拉取1");
     }
 }
